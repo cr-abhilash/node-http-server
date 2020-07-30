@@ -1,0 +1,12 @@
+{
+  "name": "http-server",
+  "version": "0.0.1",
+  "description": "This is default page!! Try GET /html ->  To get html content. Try GET /json ->  To get json content. Try GET /status/{valid status code } ->  To get modify status code. Try GET /delay/{in sec} ->  To get content after the delay.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Abhilash CR",
+  "license": "ISC"
+}
